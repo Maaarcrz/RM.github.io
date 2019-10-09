@@ -4,6 +4,10 @@ Matematicas
 Sociales
 Musica
 Educacion Fisica
+<<<<<<< HEAD
 
 >>>>>>>>>>>>>>
 RAULITO
+=======
+PACOOO
+>>>>>>> ead056c0f2877a0ac7cab89b6f70cb312b1039b8
